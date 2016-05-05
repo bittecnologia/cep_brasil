@@ -1,4 +1,4 @@
-3 arquvios no formato JSON contendo a lista de endereços, bairros e cidades(com códigos do IBGE) do Brasil
+1 arquivo zipado com 3 arquvios no formato JSON contendo a lista de endereços, bairros e cidades(com códigos do IBGE) do Brasil
 
 
 
